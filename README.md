@@ -23,3 +23,7 @@ Oversampling Experimentation: As an alternative to undersampling, future work wi
 ##Conclusion
 
 In summary, this credit card fraud detection project successfully leveraged logistic regression to create a high-performing model that achieved an impressive 90% efficiency in identifying fraudulent transactions. This work holds significant potential in the financial sector for minimizing fraud-related losses.
+
+
+########    ADDED ANOTHER FILE     ##########
+In Anomaly Detection file I have used Isolation Forest Algorithm to increase the accuracy of the model to 99.74%.
